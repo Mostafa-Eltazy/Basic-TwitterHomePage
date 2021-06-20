@@ -1,3 +1,7 @@
+This a very basic React application with minimal functionality more focused around React.js and Css code to give the feel on twitter home page,
+basic functionality given via twitting and diplaying tweets for the user.
+using :
+React.js,Html5, Css3, materialUI, Firebase
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
